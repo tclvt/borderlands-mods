@@ -4,6 +4,8 @@ Local desktop tool that generates a customized version of the three-file mod sup
 
 ## Start here
 
+L’interface est maintenant en français, avec un thème sombre, des curseurs et un aperçu des effets combinés. Les onglets **Combat** et **Progression** regroupent les réglages. Les cartes à gauche appliquent un préréglage ; les boutons **Charger un profil** et **Enregistrer le profil** permettent de conserver plusieurs configurations JSON. Les curseurs vont de 0,01 à 100 avec 1 au centre ; vous pouvez aussi saisir une valeur précise, avec une virgule ou un point. Le bouton **Générer mon mod** enregistre les réglages et produit les trois fichiers dans `output`. **Ouvrir le dossier** permet de les retrouver. Le raccourci Ctrl+Entrée lance aussi la génération.
+
 1. Double-click **Launch Configurator.cmd**.
 2. Choose a preset or type your own multipliers. Click **Save settings & generate mod**.
 3. Click **Open output folder**. The initial build is already generated there: enemy health ×2, incoming damage ×1.5, everything else neutral.

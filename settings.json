@@ -1,6 +1,6 @@
 {
   "enemy_health": 2.0,
-  "enemy_damage": 1.5,
+  "enemy_damage": 50.0,
   "player_damage": 1.0,
   "player_durability": 1.0,
   "experience": 1.0,
